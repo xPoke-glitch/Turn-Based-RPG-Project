@@ -1,7 +1,7 @@
 # Turn Based RPG Project
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://www.unity.com)
 
-This is a **test project** where I tried to create the basics of a RPG game with overworld. In this case I wanted to have a 2D pixel art overworld with 3D battle scenes.
+This is a **test project** where I tried to create the basics of a **RPG game** with **overworld**. In this case I wanted to have a **2D pixel art overworld** with **3D battle scenes**.
 
 <img src="https://github.com/xPoke-glitch/Turn-Based-RPG-Project/blob/main/Screenshots/screen.png" width="750">
 
