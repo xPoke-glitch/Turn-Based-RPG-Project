@@ -38,6 +38,10 @@ This is an example that shows you how the game looks like.
 
 <img src="https://github.com/xPoke-glitch/Turn-Based-RPG-Project/blob/main/Screenshots/gameplay.gif" width="750">
 
+A cool feature that I implemented is the AFK camera - when you don't press any key for a certain amount of seconds this will happen:
+
+<img src="https://github.com/xPoke-glitch/Turn-Based-RPG-Project/blob/main/Screenshots/afk-camera.gif" width="750">
+
 ## Team
 
 **Developers**:
