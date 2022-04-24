@@ -42,6 +42,18 @@ A cool feature that I implemented is the AFK camera - when you don't press any k
 
 <img src="https://github.com/xPoke-glitch/Turn-Based-RPG-Project/blob/main/Screenshots/afk-camera.gif" width="750">
 
+## Test notes
+
+Well, creating RPG games it's always a pleasure because they are my favorite genre.
+
+I'm pretty satisfied of the project, I tried to make it more scalable as possible and I succeed in doing so. For example I can create as many enemies as I want without chaning anything in the battle scene.
+
+I also made from scratch the battle menu, but to be honest I could have done it in an easier way ahah.
+
+A cool thing that this project gave me is more knowledge on Cinemachines, as you can see from the Gamplay example section, I played with them a little!
+
+Of course, as always, this is a test project, many things can be improved, but the important aspect was to achieve to create the basics of a RPG game - creating a complete RPG game from scratch it requires too much time.
+
 ## Team
 
 **Developers**:
