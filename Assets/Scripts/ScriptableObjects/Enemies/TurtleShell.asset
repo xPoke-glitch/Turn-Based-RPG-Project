@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccc1e6e918962f947858daf9356e16b8, type: 3}
+  m_Name: TurtleShell
+  m_EditorClassIdentifier: 
+  Name: Shell
+  BattlePrefab: {fileID: 4632992410202852733, guid: 3dab7352dd3a42a4593c220a8f2b2561, type: 3}
+  MaxHealth: 10
+  BasicAttackDMG: 3
+  STR: 1
+  DEF: 3
+  CRT: 0
+  abilities:
+  - {fileID: 11400000, guid: 3556e7e42190daf458b8f96c25f26892, type: 2}
+  DropEXP: 3
